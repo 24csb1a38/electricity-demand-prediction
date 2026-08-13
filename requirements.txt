@@ -7,3 +7,5 @@ optuna
 shap
 matplotlib
 jupyter
+flask
+gunicorn
