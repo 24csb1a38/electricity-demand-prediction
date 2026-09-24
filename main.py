@@ -1,16 +1,3 @@
-"""
-main.py
-Runs the full pipeline end to end:
-1. Load + process data
-2. Evaluate naive baseline
-3. Train + tune XGBoost with Optuna
-4. Train Prophet
-5. Explain the best model with SHAP
-6. Print a final comparison table
-
-Run this with:  python main.py
-(make sure your virtual environment is activated first)
-"""
 
 import sys
 import os
